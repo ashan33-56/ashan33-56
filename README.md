@@ -20,9 +20,9 @@
 <br/>
 
 const techCreator = {
-  name: "Iresha Rajapaksha",
-  location: "Kandy, Sri Lanka",
-  email: "sandeepanirajapaksha01@gmail.com",
+  name: "Ashan Madiranga",
+  location: "Matale, Sri Lanka",
+  email: "ashanjayathissa7@gmail.com",
   code: ["JavaScript", "TypeScript", "Python", "C++", "Java", "Arduino"],
   askMeAbout: [
     "Full-Stack Development",
