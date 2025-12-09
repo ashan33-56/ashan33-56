@@ -101,39 +101,48 @@ const dreamCoder = {
 <h3 align="center">📊 GitHub Stats & Magic ✨</h3>
 
 <p align="center">
-<table align="center">
-<tr border="none">
-<td width="50%" align="center">
+<table align="center" width="100%" style="table-layout: fixed;">
 
-  <!-- GitHub Stats -->
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=ashan33-56&theme=radical&show_icons=true&count_private=true&hide_border=true&title_color=00FFFF&text_color=8A2BE2&icon_color=00FFFF&bg_color=1B1B2F" />
+<tr>
 
+<!-- LEFT SIDE -->
+<td width="50%" valign="top" align="center">
+
+  <!-- Profile Details Card -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashan33-56&theme=radical" width="90%" />
   <br><br>
 
-  <!-- Streak Stats -->
-  <img title="🔥 Coding streak magic" alt="Coding Streak"
-       src="https://github-readme-streak-stats.herokuapp.com/?user=ashan33-56&theme=radical&hide_border=true&ring=00FFFF&fire=8A2BE2&currStreakLabel=00FFFF&sideLabels=8A2BE2&currStreakNum=00FFFF&sideNums=8A2BE2&background=1B1B2F" />
+  <!-- Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ashan33-56&theme=radical" width="90%" />
+  <br><br>
+
+  <!-- Stats -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ashan33-56&theme=radical" width="90%" />
 
 </td>
 
-<td width="50%" align="center">
+<!-- RIGHT SIDE -->
+<td width="50%" valign="top" align="center">
 
-  <!-- Top Languages -->
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashan33-56&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00FFFF&text_color=8A2BE2&bg_color=1B1B2F" />
-  
+  <!-- Repos Per Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ashan33-56&theme=radical" width="90%" />
+  <br><br>
+
+  <!-- Most Used Language -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ashan33-56&theme=radical" width="90%" />
   <br><br>
 
   <!-- Contribution Graph -->
-  <img 
-       src="https://github-readme-activity-graph.vercel.app/graph?username=ashan33-56&bg_color=1B1B2F&color=8A2BE2&line=00FFFF&point=00FFFF&area=true&hide_border=true&custom_title=Contribution%20Galaxy&title_color=00FFFF"
-       width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashan33-56&bg_color=1B1B2F&color=8A2BE2&line=00FFFF&point=00FFFF&area=true&hide_border=true&custom_title=Contribution%20Galaxy&title_color=00FFFF"
+       width="95%" />
 
 </td>
+
 </tr>
 </table>
 </p>
+
+
 
 <h3 align="center">💻 My Tech Toolbox 💻</h3>
 <div align="center">
@@ -196,3 +205,4 @@ const dreamCoder = {
 </div>
 
 <h4 align="center">⚡ Ready to build something amazing together? Let's connect! 🚀</h4>
+
