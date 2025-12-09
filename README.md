@@ -77,10 +77,10 @@ const dreamCoder = {
   funFact: "I believe code should be as cool as it is powerful! 🚀"
 };
 ```
-
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&height=150&section=header&color=0:4B0082,100:8A2BE2&text=Hello,%20I'm%20Ashan%20Jayathissa&fontColor=FFFFFF&fontSize=55&fontAlign=50&animation=fadeIn&stroke=00FFFF&strokeWidth=1" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1500">
 </div>
+
 
 <h3 align="center">🔥 Current Adventures & Dreams 🔥</h3>
 
